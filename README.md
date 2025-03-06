@@ -14,7 +14,7 @@ Usei o "ChatGPT" para gerar o texto para o e-book e revisar o conteúdo criado. 
 ## 🎯 Resultados
 O e-book é uma guia ao leitor que busca saber mais sobre diferenças entre simulações e IA's e seu impacto na sociedade e a como compreender o que é uma IA.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK DO E-BOOK](https://github.com/TakeoSunohara/lab-natty-or-not/blob/cfcb7b507ac7d45c02a4b49afbdd563074f7abbe/Entre%20a%20Realidade%20e%20o%20Falso%20Como%20Diferenciar%20IA.pdf)
 
 ## 🤔 Reflexão
 Este projeto foi uma jornada fascinante para explorar as fronteiras da Inteligência Artificial, oferecendo uma visão clara sobre como diferenciar a IA verdadeira das simulações e refletir sobre seu impacto no futuro.
